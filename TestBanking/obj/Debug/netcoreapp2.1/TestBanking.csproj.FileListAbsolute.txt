@@ -1,0 +1,4 @@
+/Users/christopherfarrell1/Projects/Banking.Lib/TestBanking/obj/Debug/netcoreapp2.1/TestBanking.csprojAssemblyReference.cache
+/Users/christopherfarrell1/Projects/Banking.Lib/TestBanking/obj/Debug/netcoreapp2.1/TestBanking.AssemblyInfoInputs.cache
+/Users/christopherfarrell1/Projects/Banking.Lib/TestBanking/obj/Debug/netcoreapp2.1/TestBanking.AssemblyInfo.cs
+/Users/christopherfarrell1/Projects/Banking.Lib/TestBanking/obj/Debug/netcoreapp2.1/TestBanking.csproj.CoreCompileInputs.cache
